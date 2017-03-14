@@ -6,17 +6,13 @@
 #####H5
 ######H6
 
-*アスタリスク強調*
+*アスタリスク強調*  
 _アンダーバー強調_
 
-
-*リスト1
-*リスト2
-*リスト3
-
-1.List1
-2.List2
-3.List3
-
+  
+1.List1  
+2.List2  
+3.List3  
+  
 [google]: http://google.com/ "Google"
 
